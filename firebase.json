@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"speakup-bridge","appId":"1:13245045398:android:b3bf851410549ba839c0b7","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"speakup-bridge","configurations":{"android":"1:13245045398:android:b3bf851410549ba839c0b7","ios":"1:13245045398:ios:03f85a815c94e7d039c0b7"}}}}}}

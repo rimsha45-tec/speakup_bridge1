@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13245045398",
+    "project_id": "speakup-bridge",
+    "storage_bucket": "speakup-bridge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13245045398:android:b3bf851410549ba839c0b7",
+        "android_client_info": {
+          "package_name": "hectasolution.com.speakup_bridge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZjrZ1SN6ibL_1W3rPi2Q5LAoWxT5SuMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
